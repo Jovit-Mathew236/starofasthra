@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/starofasthra/static/css/main.89756734.css",
+    "main.js": "/starofasthra/static/js/main.9c49fce0.js",
+    "static/media/emergebg.jpg": "/starofasthra/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
+    "static/media/CIVISTAbg.jpg": "/starofasthra/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
+    "static/media/MECHAURAbg.jpg": "/starofasthra/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
+    "static/media/RADIANCEbg.jpg": "/starofasthra/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
+    "index.html": "/starofasthra/index.html",
+    "main.89756734.css.map": "/starofasthra/static/css/main.89756734.css.map",
+    "main.9c49fce0.js.map": "/starofasthra/static/js/main.9c49fce0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89756734.css",
+    "static/js/main.9c49fce0.js"
+  ]
+}
